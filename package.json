@@ -1,0 +1,10 @@
+{
+  "name": "nft-royalty-standard-eip2981",
+  "version": "1.0.0",
+  "description": "EIP-2981 NFT Royalty Implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
